@@ -16,8 +16,10 @@ public class Main {
             System.out.println("Invalid value");
             return -1;
         }
+
         int sum = 0;
         // 125 -> 125 / 10 = 12 -> 12 * 10 = 120 -> 125 - 125 = 5
+
         while (number>0){
             int digit = number % 10;
             sum += digit;
