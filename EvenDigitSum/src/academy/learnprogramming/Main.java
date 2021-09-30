@@ -23,7 +23,6 @@ public class Main {
             }
             number/=10;
         }
-
         return sum;
     }
 }
