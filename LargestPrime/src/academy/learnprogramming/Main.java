@@ -20,6 +20,7 @@ public class Main {
                 i--;
             }
         }
+
         return i;
     }
 }
