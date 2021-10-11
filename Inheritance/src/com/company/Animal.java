@@ -19,8 +19,9 @@ public class Animal {
         System.out.println("Animal eat");
     }
 
-    public void move(){
-
+    public void move(int spped){
+        System.out.println("Animal.move");
+        System.out.println("Animal is moving at" + spped);
     }
 
     public String getName() {
