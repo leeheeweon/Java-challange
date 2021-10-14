@@ -21,6 +21,7 @@ public class EnhancedPlayer {
 
     public void loseHealth(int damage) {
         this.hitPoints -= damage;
+
         if (this.hitPoints <= 0) {
             System.out.println("Player knocked out");
         }
