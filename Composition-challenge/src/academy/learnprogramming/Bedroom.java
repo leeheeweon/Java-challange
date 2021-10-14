@@ -20,6 +20,7 @@ public class Bedroom {
         this.bed = bed;
         this.lamp = lamp;
     }
+
     public void makeBed(){
         System.out.println("Bedroom -> Making bed | ");
         bed.make();
