@@ -58,6 +58,59 @@ public class Main {
         }
     }
 
+    private static void updateContact() {
+        System.out.println("Enter existing contact name: ");
+        String name = scanner.nextLine();
+        Contacts existingContactRecord = mobilePhone.queryContact(name);
+
+        if (existingContactRecord == null) {
+            System.out.println("Contact not fount.");
+            return;
+        }
+
+        System.out.println("Enter new contact name: ");
+        String newName = scanner.nextLine();
+        System.out.println("Enter new contact phone number: ");
+        String newNumber = scanner.nextLine();
+        Contacts newContact = Contacts.createContact(newName, newNumber);
+
+        if (mobilePhone.updateContact(existingContactRecord, newContact)) {
+            System.out.println("Successfully updated record");
+        } else {
+            System.out.println("Error updating record.");
+        }
+    }
+
+    private static void removeContact() {
+        System.out.println("Enter existing contact name: ");
+        String name = scanner.nextLine();
+        Contacts existingContactRecord = mobilePhone.queryContact(name);
+
+        if (existingContactRecord == null) {
+            System.out.println("Contact not fount.");
+            return;
+        }
+
+        if (mobilePhone.removeContcat(existingContactRecord)) {
+            System.out.println("Successfully deleted record");
+        } else {
+            System.out.println("Error deleting record.");
+        }
+    }
+
+    private static void queryContact() {
+        System.out.println("Enter existing contact name: ");
+        String name = scanner.nextLine();
+        Contacts existingContactRecord = mobilePhone.queryContact(name);
+
+        if (existingContactRecord == null) {
+            System.out.println("Contact not fount.");
+            return;
+        }
+
+        System.out.println("name is " + existingContactRecord.getName() + ", phone number is " + existingContactRecord.getPhoneNumber());
+    }
+
     private static void startPhone() {
         System.out.println("Starting phone.....");
     }
@@ -66,7 +119,7 @@ public class Main {
         System.out.println("\n Available action:\npress");
         System.out.println("0 - to shutdown\n" +
                 "1 - to print contact\n" +
-                "2 - to add a new contact" +
+                "2 - to add a new contact\n" +
                 "3 - to update existing an existing contact\n" +
                 "4 - to remove an existing contact\n" +
                 "5 - query if an existing contact exists\n" +
