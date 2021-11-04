@@ -1,0 +1,24 @@
+
+J
+java:S3740:"/Provide the parametrized type for this generic.(¶è¹Çÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(›÷Öõÿÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ÄºÎ”
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(Şø¶Îøÿÿÿÿ
+>	java:S1082")Either remove or fill this block of code.(ˆ­ıø
+m
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¶è¹Çÿÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(’É·êıÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(œÿŒÿÿÿÿÿ
+<	java:S131K""Add a default case to this switch.(ë´åİşÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(™ê°
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(œÿŒÿÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(µÑìé
+M	java:S106j"9Replace this use of System.out or System.err by a logger.(›•¢0
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(¿ØÒ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(á‰íßÿÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ş°ïÂ
+t
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ø²›üÿÿÿÿ
+i
+java:S1192 "NDefine a constant instead of duplicating this literal "Now visiting " 4 times.(›÷Öõÿÿÿÿÿ

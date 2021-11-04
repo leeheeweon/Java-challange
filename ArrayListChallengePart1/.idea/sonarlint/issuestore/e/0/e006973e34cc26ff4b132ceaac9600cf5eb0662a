@@ -1,0 +1,29 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ôèÆşûÿÿÿÿ8«Ö‹¤Ë/
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8ºÖ‹¤Ë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â‰§©8ºÖ‹¤Ë/
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(®¾»û8ºÖ‹¤Ë/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(²ı…Çùÿÿÿÿ8ºÖ‹¤Ë/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ûê²éøÿÿÿÿ8ºÖ‹¤Ë/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ÊÕúÿÿÿÿ8ºÖ‹¤Ë/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ8ºÖ‹¤Ë/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(õŸ¼û8ºÖ‹¤Ë/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(®¾»û8ºÖ‹¤Ë/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ŸìÅå8ºÖ‹¤Ë/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(üõÚûÿÿÿÿ8ºÖ‹¤Ë/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(ì¨Ñùÿÿÿÿ8ºÖ‹¤Ë/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ8ºÖ‹¤Ë/
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(õŸ¼û8ÊÖ‹¤Ë/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(›œ¯Ÿ8ÊÖ‹¤Ë/
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(©áÍ8ÊÖ‹¤Ë/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ8ÊÖ‹¤Ë/
+U	java:S106k"9Replace this use of System.out or System.err by a logger.(õŸ¼û8ÊÖ‹¤Ë/
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(‰É’Ÿ8ÊÖ‹¤Ë/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(¸­ò8ÊÖ‹¤Ë/
+U	java:S106w"9Replace this use of System.out or System.err by a logger.(Á„Á­8ÊÖ‹¤Ë/
+T	java:S106x"9Replace this use of System.out or System.err by a logger.(éúÃ8ÊÖ‹¤Ë/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íÿüú8ÊÖ‹¤Ë/
+p
+java:S1192C"SDefine a constant instead of duplicating this literal "Contact not fount." 3 times.(õŸ¼û8ÊÖ‹¤Ë/
+€
+java:S1192>"^Define a constant instead of duplicating this literal "Enter existing contact name: " 3 times.(ì÷ã¦ıÿÿÿÿ8ÊÖ‹¤Ë/

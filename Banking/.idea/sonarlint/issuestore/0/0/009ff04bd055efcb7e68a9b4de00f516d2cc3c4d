@@ -1,0 +1,9 @@
+
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ËŠé
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ô˜”ûÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ï¡ş“ûÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(áåïÅ
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ö¯úà

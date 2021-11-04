@@ -1,0 +1,40 @@
+
+Q
+java:S1854#";Remove this useless assignment to local variable "aDouble".(áç
+Q
+java:S1854"";Remove this useless assignment to local variable "integer".(ıáğ
+R
+java:S1854"<Remove this useless assignment to local variable "intArray".(­ö°´
+R
+java:S1854"<Remove this useless assignment to local variable "strArray".(‚ı
+O
+java:S1854/"9Remove this useless assignment to local variable "myInt".(Ó‹°Ô
+C
+java:S1481"-Remove this unused "strArray" local variable.(‚ı
+C
+java:S1481"-Remove this unused "intArray" local variable.(­ö°´
+V	java:S125"<This block of commented-out lines of code should be removed.(œ İ¶ıÿÿÿÿ
+7
+java:S2129""!Remove this "Integer" constructor(ıáğ
+E
+java:S1874""/Remove this use of "Integer"; it is deprecated.(ıáğ
+B
+java:S1481"",Remove this unused "integer" local variable.(ıáğ
+6
+java:S2129#" Remove this "Double" constructor(áç
+D
+java:S1874#".Remove this use of "Double"; it is deprecated.(áç
+B
+java:S1481#",Remove this unused "aDouble" local variable.(áç
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÔÅ÷¿üÿÿÿÿ
+@
+java:S1481/"*Remove this unused "myInt" local variable.(Ó‹°Ô
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(â•‰Úıÿÿÿÿ8Æ±½ÍË/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ‡ÿûÿÿÿÿ
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(¶°Î‹ùÿÿÿÿ
+t
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(ØÁá²úÿÿÿÿ
+t
+java:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(òÂ‡şÿÿÿÿ

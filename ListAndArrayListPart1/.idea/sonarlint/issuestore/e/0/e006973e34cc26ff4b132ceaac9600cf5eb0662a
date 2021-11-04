@@ -1,0 +1,26 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áå¨ÿÿÿÿÿ
+7	java:S131""Add a default case to this switch.(¨ÕÉ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ò®÷”ıÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿã‡Şüÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(êƒâ½
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ïŒ¨‹øÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(æÄœ­
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(÷øìÑ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(·¤¥’
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(²•˜†úÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ñµğéüÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(âÊÏ›øÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(Ü¤â‰
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(‚èÌÜşÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(úôı
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Ş•Úùúÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ôŒáÒıÿÿÿÿ
+V
+java:S1854`";Remove this useless assignment to local variable "myArray".(„ŠÛ¶ıÿÿÿÿ
+X
+java:S1854^"=Remove this useless assignment to local variable "nextArray".(‘ÉÙøÿÿÿÿ
+I
+java:S1481^".Remove this unused "nextArray" local variable.(‘ÉÙøÿÿÿÿ
+t
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¼¢ûùÿÿÿÿ
