@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Main {
 
-    private static ArrayList<Albam> albams = new ArrayList<Albam>();
+    private static List<Albam> albams = new ArrayList<Albam>();
 
     public static void main(String[] args) {
         // write your code here
@@ -32,7 +32,7 @@ public class Main {
         albam.addSong("Night of the long knives", 5.12);
         albams.add(albam);
 
-        LinkedList<Song> playList = new LinkedList<Song>();
+        List<Song> playList = new ArrayList<Song>();
         albams.get(0).addToPlayList("You can't do it right", playList);
         albams.get(0).addToPlayList("Holy man", playList);
         albams.get(0).addToPlayList("Speed king", playList); //Does not exist
@@ -45,7 +45,7 @@ public class Main {
         play(playList);
     }
 
-    private static void play(LinkedList<Song> playList) {
+    private static void play(List<Song> playList) {
         Scanner scanner = new Scanner(System.in);
         boolean quit = false;
         boolean forward = true;
@@ -152,7 +152,7 @@ public class Main {
                 "6 - delete current song from playlist.");
     }
 
-    private static void printList(LinkedList<Song> playlist) {
+    private static void printList(List<Song> playlist) {
         Iterator<Song> iterator = playlist.listIterator();
         System.out.println("==================================");
 
