@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         // write your code here
-        Player hee = new Player("hee" , 10 , 15);
+        Player hee = new Player("hee", 10, 15);
         System.out.println(hee.toString());
         saveObject(hee);
 
@@ -17,6 +17,11 @@ public class Main {
         saveObject(hee);
         loadObject(hee);
         System.out.println(hee);
+
+        ISaveable werewolf = new Monster("Werewolf", 20, 40);
+        System.out.println(((Monster) werewolf).getStrength());
+        System.out.println(werewolf);
+        saveObject(werewolf);
     }
 
     public static ArrayList<String> readValue() {
