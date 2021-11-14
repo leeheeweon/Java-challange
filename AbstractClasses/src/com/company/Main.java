@@ -16,5 +16,12 @@ public class Main {
         penguin.eat();
         penguin.breathe();
         penguin.fly();
+
+
+        String stringData = "Darwin Brisbane Perth Melbourne Canberra Adelaide Sydney Canberra";
+        String[] data = stringData.split(" ");
+        for (String s : data) {
+
+        }
     }
 }
