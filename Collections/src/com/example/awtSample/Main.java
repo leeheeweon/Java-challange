@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         Theater theater = new Theater("CGV", 8, 12);
-        theater.getSeat();
+//        theater.getSeat();
 
         if (theater.reserveSeat("H11")) {
             System.out.println("Please pay");
