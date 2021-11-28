@@ -1,0 +1,36 @@
+
+t
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Å„¿Äùÿÿÿÿ8÷›Ì‡Ñ/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Í ã‰şÿÿÿÿ8û›Ì‡Ñ/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(µÌ‰˜8ü›Ì‡Ñ/
+C	java:S131E""Add a default case to this switch.(ë´åİşÿÿÿÿ8ı›Ì‡Ñ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(š¦Üô8ı›Ì‡Ñ/
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(µÌ‰˜8ş›Ì‡Ñ/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Õ¼üÈúÿÿÿÿ8ş›Ì‡Ñ/
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(àÚÍ÷şÿÿÿÿ8ÿ›Ì‡Ñ/
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ÆÈâ›8ÿ›Ì‡Ñ/
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(”–Ò±8ÿ›Ì‡Ñ/
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(¿ØÒ8€œÌ‡Ñ/
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(„…ö8€œÌ‡Ñ/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(›·´Ã8€œÌ‡Ñ/
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(¶Ÿ¾Å8œÌ‡Ñ/
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(îÿ¡úÿÿÿÿ8œÌ‡Ñ/
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(¨ì³€8‚œÌ‡Ñ/
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(ˆÒ”€8‚œÌ‡Ñ/
+V	java:S106•"9Replace this use of System.out or System.err by a logger.(ş°ïÂ8ƒœÌ‡Ñ/
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ÄºÎ”8„œÌ‡Ñ/
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(ØÑ¼„8…œÌ‡Ñ/
+V	java:S106¦"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8†œÌ‡Ñ/
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡®ÁÙ8†œÌ‡Ñ/
+{
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÜÛ¯øÿÿÿÿ8‡œÌ‡Ñ/
+j
+java:S1192="MDefine a constant instead of duplicating this literal "Now playing " 4 times.(µÌ‰˜8‡œÌ‡Ñ/
+Z
+java:S11559">Use isEmpty() to check whether the collection is empty or not.(ÙÌx8Ò½¢‚Ò/
+a
+java:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(‰Ü³®üÿÿÿÿ8Ò½¢‚Ò/
+Õ
+java:S1598"·This file "Main.java" should be located in "academy\learnprogramming\learnprogramming" directory, not in "C:\Users\NC503\workspace\InnerClassesChallenge\src\academy\learnprogramming".(ŒéÆ³8‰œÌ‡Ñ/

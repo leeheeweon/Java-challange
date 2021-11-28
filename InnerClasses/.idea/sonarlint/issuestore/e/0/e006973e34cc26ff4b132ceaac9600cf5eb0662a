@@ -1,0 +1,10 @@
+
+V	java:S125
+"<This block of commented-out lines of code should be removed.(°´û§ÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(´ª‚º8ôôÉŞĞ/
+P	java:S125"<This block of commented-out lines of code should be removed.(ŒÌûj
+7	java:S1312""Add a default case to this switch.(¨ÕÉ
+=
+java:S1604"(Make this anonymous inner class a lambda(Š
+a
+java:S13012"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ

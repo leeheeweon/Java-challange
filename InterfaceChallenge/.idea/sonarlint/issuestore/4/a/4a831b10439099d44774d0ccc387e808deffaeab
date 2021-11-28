@@ -1,0 +1,17 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½£ƒ“ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¹Í™úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ö¹Í™úÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(âìÏ;
+N	java:S106"9Replace this use of System.out or System.err by a logger.(€«†œ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ƒŸ§Ÿøÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(°ç½Ñúÿÿÿÿ
+7	java:S131*""Add a default case to this switch.(¨ÕÉ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(§ã¨€8ö–¬ŒĞ/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(¿‚Ÿˆ8¸ƒ®ŒĞ/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(©Õ“
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( ß·
+a
+java:S1301*"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ

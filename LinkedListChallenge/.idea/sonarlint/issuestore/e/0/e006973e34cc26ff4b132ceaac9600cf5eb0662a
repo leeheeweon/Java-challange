@@ -1,0 +1,33 @@
+
+m
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 50 to the 15 allowed.(Å„¿Äùÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(Í ã‰þÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(µÌ‰˜
+<	java:S131B""Add a default case to this switch.(ë´åÝþÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(š¦Üô
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(µÌ‰˜
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(Õ¼üÈúÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(àÚÍ÷þÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(ÆÈâ›
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(”–Ò±
+N	java:S106o"9Replace this use of System.out or System.err by a logger.(¿ØÒ
+N	java:S106s"9Replace this use of System.out or System.err by a logger.(„…öŽ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(›·´Ã
+O	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¶Ÿ¾Å
+T	java:S106…"9Replace this use of System.out or System.err by a logger.(îÿ¡úÿÿÿÿ
+O	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¨ì³€
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(ˆÒ”€
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(þ°ïÂ8¬ŸÀÍÎ/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8ÛÏÆÍÎ/
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(ØÑ¼„8ÎÌÍÎ/
+V	java:S106£"9Replace this use of System.out or System.err by a logger.(ÄºÎ”8þ‰ÏÍÎ/
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÃöþüÿÿÿÿ
+t
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(åÜÛ¯øÿÿÿÿ
+c
+java:S1192:"MDefine a constant instead of duplicating this literal "Now playing " 4 times.(µÌ‰˜
+S
+java:S11556">Use isEmpty() to check whether the collection is empty or not.(ÙÌx
+Z
+java:S1155€">Use isEmpty() to check whether the collection is empty or not.(‰Ü³®üÿÿÿÿ
