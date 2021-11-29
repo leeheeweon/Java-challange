@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Theater {
     private final String TheaterName;
-    private List<Seat> seats = new ArrayList<>();
+    public List<Seat> seats = new ArrayList<>();
 
     public Theater(String theaterName, int numRow, int seatsPerRow) {
         TheaterName = theaterName;
